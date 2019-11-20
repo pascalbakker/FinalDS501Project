@@ -1,2 +1,2 @@
 # FinalDS501Project
-final project for this class. housing prices
+final project for this class. Avocado price prediction and classification.
